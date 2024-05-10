@@ -1,8 +1,8 @@
-# Dialas-PWA-Text-Editor
+# My-PWA-Text-Editor
 Project Description:
 This is a text editor that runs in the browser as a single-page application that meets the PWA criteria.
 It also features a number of data persistence techniques that serve as redundancy in case one of the options 
-is not supported by the browser. 
+is not supported by the browser.
 
 ## User Story
 
@@ -43,5 +43,5 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ##   Links to submit:
-- URL of deployed application:
-- github URL of application:
+- URL of deployed application: https://dialas-pwa-text-editor.onrender.com
+- github URL of app repo: https://github.com/dialaobeid/Dialas-PWA-Text-Editor/tree/main
