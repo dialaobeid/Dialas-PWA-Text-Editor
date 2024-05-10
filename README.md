@@ -1,8 +1,7 @@
 # My-PWA-Text-Editor
 Project Description:
 This is a text editor that runs in the browser as a single-page application that meets the PWA criteria.
-It also features a number of data persistence techniques that serve as redundancy in case one of the options 
-is not supported by the browser.
+It also features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser.
 
 ## User Story
 
